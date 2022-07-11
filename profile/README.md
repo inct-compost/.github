@@ -7,6 +7,11 @@ IoTを活用したコンポストトイレの開発用のORG
 | [app-web](https://github.com/inct-compost/app-web) | webダッシュボードアプリ | software |
 | [app-flutter](https://github.com/inct-compost/app-flutter) | webダッシュボードアプリ | software |
 
+#### 命名規則
+- フロントエンド：`app-xxx`
+- バックエンド：`back-xxx`
+- ハードウェア：`hard-xx`
+
 ## Links
 | link | description | type |
 | -- | -- | -- |
