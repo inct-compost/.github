@@ -1,18 +1,14 @@
-## Description
-IoTを活用したコンポストトイレの開発用のORG
+# inct-compost
 
-## Repositories
-| link | description | type |
-| -- | -- | -- |
-| [app-web](https://github.com/inct-compost/app-web) | webダッシュボードアプリ | frontend |
-| [app-flutter](https://github.com/inct-compost/app-flutter) | webダッシュボードアプリ | frontend |
+## What about organization?
+This repository stores the program for the "Automatic stirring composting toilet using IoT" that is being developed for graduation research
 
-#### 命名規則
-- フロントエンド：`app-xxx`
-- バックエンド：`back-xxx`
-- ハードウェア：`hard-xx`
+## Repository detail
+### Backend
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inct-compost&repo=back-firebase-functions&cache_seconds=0)](https://github.com/inct-compost/back-firebase-functions)
 
-## Links
-| link | description | type |
-| -- | -- | -- |
-| <a href="https://www.figma.com/file/wg4vNplFetTMIipIKTKbcS/compost-app-ios?node-id=102%3A302" target="_blank">compost-app-prototype</a> | モバイルアプリプロトタイプ | software |
+### Frontend
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inct-compost&repo=app-web)](https://github.com/inct-compost/app-web)
+
+### Hardware
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inct-compost&repo=hard-data-transmission)](https://github.com/inct-compost/hard-data-transmission)
