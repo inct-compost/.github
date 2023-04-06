@@ -5,7 +5,9 @@ This repository stores the program for the "Automatic stirring composting toilet
 
 ### App Link
 [Web Application](https://iot-compost-toilet.takumaru.dev/)
-[Wantedly](https://www.wantedly.com/id/takumaru)
+[Slide]
+
+(https://www.wantedly.com/id/takumaru/items/dd7f9797-7624-4cca-938a-cf94e8afc2c2 )
 
 ## Repository detail
 ### Backend
